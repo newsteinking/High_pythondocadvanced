@@ -9,7 +9,7 @@ Python Advanced
 
 .. image:: ./img/chapter0_3.png
 
-`Github <https://github.com/newsteinking/pythonadvanced>`_ | https://github.com/newsteinking/pythonadvanced
+`Github <https://github.com/newsteinking/HIGH_pythonadvanced>`_ | https://github.com/newsteinking/HIGH_pythonadvanced
 
 
 
